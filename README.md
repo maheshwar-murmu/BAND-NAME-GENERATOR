@@ -1,5 +1,4 @@
 # BAND-NAME-GENERATOR
-Thank you for sharing your project with me! Based on your **Band Name Generator** project, here's a description you can use:
 
 ---
 
